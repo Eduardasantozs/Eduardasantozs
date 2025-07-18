@@ -1,9 +1,11 @@
-# Hi, me chamo Maria Eduarda, Estudo programação!
+# Hi, me chamo Maria Eduarda, Sou estudante de programação!
 ## Meu portifólio 
 []
 
 Sou formada em Tecnico de informática no Colégio Ulbra São Lucas.
 Estou desenvolvendo minhas hardskills na area de programação.
+Estudo engenharia de software na unisinos.
+
 
 ## Hardskills
 ![HTML](https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000)
@@ -15,3 +17,7 @@ Estou desenvolvendo minhas hardskills na area de programação.
 ![Python](https://img.icons8.com/?size=100&id=lXPUSRCongH1&format=png&color=000000)
 ![React native](https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000)
 ![Power bi](https://img.icons8.com/?size=100&id=70667&format=png&color=000000)
+
+## Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eduarda04santos18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-eduarda-5bb849289)
