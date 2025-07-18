@@ -20,4 +20,7 @@ Estudo engenharia de software na unisinos.
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eduarda04santos18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-eduarda-5bb849289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-eduarda-5bb849289)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardasantozs&layout=compact&theme=radical)](https://github.com/Eduardasantozs)
