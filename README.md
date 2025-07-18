@@ -13,4 +13,4 @@ Estou desenvolvendo minhas hardskills na area de programação.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff)
-![Php](https://img.icons8.com/?size=100&id=qcPZJD5DNDto&format=png&color=000000)
+![Php](https://img.icons8.com/?size=50&id=qcPZJD5DNDto&format=png&color=000000)
