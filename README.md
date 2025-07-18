@@ -7,7 +7,7 @@ Estou desenvolvendo minhas hardskills na area de programação.
 
 ## Hardskills
 ![HTML](https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=fff)
+![CSS](https://img.icons8.com/?size=100&id=AY9OsTxmB7MH&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=50&id=Nkym0Ujb8VGI&format=png&color=000000)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
