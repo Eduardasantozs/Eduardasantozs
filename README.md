@@ -13,6 +13,7 @@ Estou desenvolvendo minhas hardskills na area de programação.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff)
-![Php](https://www.flaticon.com/br/icone-gratis/php_919830?term=php&page=1&position=1&origin=search&related_id=919830)
+![Php](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/25374fa5-4130-401a-967f-09afa87ea058" />
+)
 
 
